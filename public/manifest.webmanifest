@@ -1,0 +1,15 @@
+{
+  "name": "DataManagment",
+  "short_name": "DataManagment",
+  "description": "Sistem financiar dhe analitik për agjenci turistike.",
+  "lang": "sq",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#0d1526",
+  "theme_color": "#101b33",
+  "icons": [
+    { "src": "/icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }
+  ]
+}
